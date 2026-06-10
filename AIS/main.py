@@ -172,7 +172,7 @@ def correlacao():
             </head>
             <body>
             
-            <br><a href='/'>Voltar ao inicio</a> 
+            <br><a href='/'>Voltar ao</a> 
             </body>
         </html>                              
     ''')
